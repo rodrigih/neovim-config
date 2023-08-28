@@ -1,0 +1,17 @@
+ale https://github.com/dense-analysis/ale.git
+everforest https://github.com/sainnhe/everforest.git
+harpoon https://github.com/ThePrimeagen/harpoon.git
+kanagawa.nvim https://github.com/rebelot/kanagawa.nvim.git
+lualine.nvim https://github.com/nvim-lualine/lualine.nvim.git
+nvim-dev-icons https://github.com/nvim-tree/nvim-web-devicons.git
+melange-nvim https://github.com/savq/melange-nvim.git
+nerdtree https://github.com/preservim/nerdtree.git
+papercolor-theme https://github.com/NLKNguyen/papercolor-theme.git
+plenary.nvim https://github.com/nvim-lua/plenary.nvim.git
+seoul256.vim https://github.com/junegunn/seoul256.vim.git
+rose-pine-nvim https://github.com/rose-pine/neovim.git
+telescope.nvim https://github.com/nvim-telescope/telescope.nvim.git
+vim-javascript-syntax https://github.com/jelera/vim-javascript-syntax.git
+vim-jsx-pretty https://github.com/MaxMEllon/vim-jsx-pretty.git
+vim-jsx-typescript https://github.com/peitalin/vim-jsx-typescript.git
+vim-prettier https://github.com/prettier/vim-prettier.git
