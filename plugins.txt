@@ -11,6 +11,7 @@ plenary.nvim https://github.com/nvim-lua/plenary.nvim.git
 seoul256.vim https://github.com/junegunn/seoul256.vim.git
 rose-pine-nvim https://github.com/rose-pine/neovim.git
 telescope.nvim https://github.com/nvim-telescope/telescope.nvim.git
+vim-elixir https://github.com/elixir-editors/vim-elixir.git
 vim-javascript-syntax https://github.com/jelera/vim-javascript-syntax.git
 vim-jsx-pretty https://github.com/MaxMEllon/vim-jsx-pretty.git
 vim-jsx-typescript https://github.com/peitalin/vim-jsx-typescript.git
